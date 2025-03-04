@@ -1,0 +1,9 @@
+<! DOCTY PE	html>
+< head >
+< meta charset = "utf-8" />
+< title > Curriculum Vitae de Brce Wayne </title>
+</head >
+< body >
+
+</body>
+</html> 
